@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 
 import 'package:google_fonts/google_fonts.dart';
-import 'package:tag_page/categoryscreen.dart';
+import 'package:tag_page/Screens/categoryscreen.dart';
 
 final theme = ThemeData(
   useMaterial3: true,
